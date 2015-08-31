@@ -9,4 +9,5 @@ You can read about the original Dokanx at [dokanx](https://github.com/BenjaminKi
 * Enable win socket in this libarary
 * Bug fix
 * WDK 8, 10 support
+* Signed x86 / x64 drivers 
 
